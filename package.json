@@ -1,0 +1,20 @@
+{
+  "name": "bms-chemie-new",
+  "version": "1.0.0",
+  "description": "New Bolierplate wirh Gulp & Jade",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+  	"gulp": "^3.9.1",
+  	"gulp-sass" : "^3.1.0",
+  	"gulp-jade" : "^1.1.0",
+  	"gulp-livereload" : "^3.8.1",
+  	"gulp-uglify" : "^2.0.0",
+  	"gulp-build" : "^0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
